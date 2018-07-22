@@ -1,0 +1,119 @@
+
+//list of prime numbers, indexed by integer variable
+//This whole thing is unimplemented because I replaced it with an array directly in main.cpp
+
+#include "stdafx.h"
+#include <iostream>
+
+/*
+int primeList(int index)
+{
+	int q{ 2 };
+	switch (index)
+	{
+	case 1: q=2;
+		break;
+	case 2: q=3;
+		break;
+	case 3: q = 5;
+		break;
+	case 4: q = 7;
+		break;
+	case 5: q = 11;
+		break;
+	case 6: q = 13;
+		break;
+	case 7: q = 17;
+		break;
+	case 8: q = 19;
+		break;
+	case 9: q = 23;
+		break;
+	case 10: q = 29;
+		break;
+	case 11: q = 31;
+		break;
+	case 12: q = 37;
+		break;
+	case 13: q = 41;
+		break;
+	case 14: q = 43;
+		break;
+	case 15: q = 47;
+		break;
+	case 16: q = 53;
+		break;
+	case 17: q = 59;
+		break;
+	case 18: q = 61;
+		break;
+	case 19: q = 67;
+		break;
+	case 20: q = 71;
+		break;
+	case 21: q = 73;
+		break;
+	case 22: q = 79;
+		break;
+	case 23: q = 83;
+		break;
+	case 24: q = 89;
+		break;
+	case 25: q = 97;
+		break;
+	case 26: q = 101;
+		break;
+	case 27: q = 103;
+		break;
+	case 28: q = 107;
+		break;
+	case 29: q = 109;
+		break;
+	case 30: q = 113;
+		break;
+	case 31: q = 127;
+		break;
+	case 32: q = 131;
+		break;
+	case 33: q = 137;
+		break;
+	case 34: q = 139;
+		break;
+	case 35: q = 149;
+		break;
+	case 36: q = 151;
+		break;
+	case 37: q = 157;
+		break;
+	case 38: q = 163;
+		break;
+	case 39: q = 167;
+		break;
+	case 40: q = 173;
+		break;
+	case 41: q = 179;
+		break;
+	case 42: q = 181;
+		break;
+	case 43: q = 191;
+		break;
+	case 44: q = 193;
+		break;
+	case 45: q = 197;
+		break;
+	case 46: q = 199;
+		break;
+	case 47: q = 211;
+		break;
+	case 48: q = 223;
+		break;
+	case 49: q = 227;
+		break;
+	case 50: q = 229;
+		break;
+	default: std::cout << "error in primeList function.";
+	}
+	return q;
+}
+
+*/
